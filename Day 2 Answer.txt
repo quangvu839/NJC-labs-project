@@ -1,0 +1,39 @@
+﻿Day 2 Answer
+Client-Server: Client requests a resource and server provide that resource
+Features:         
+* client request information and server give them the access to that information
+* Client and sever need to follow some protocols to interact
+* False request happens causing denial of service
+Web servers in a client server environment:
+Basically, a client request a web pages to visit and server provides them that request
+What is the role of the presentation layer
+ Presentation layer is where all the front end happens, it is often a user interface accessing through a web based application or web browser
+They say this architecture is secure, how is it done in your opinion?
+Having this architecture would help developers the ability to develop with best quality and higher speed because it is allowing each developer to focus on the layer
+Database Server (Two-Tier) Architectures
+the client workstation is responsible for managing the user interface, including presentation logic, data processing logic, and business rules logic; the database server is responsible for database storage, access, and processing
+3 tier architecture 
+Including presentation layer, application layer and data layer
+What is a File server?
+A central server in computer networks to provide systems to connected clients or shared networks
+SOA & MicroServices
+Benefit of SOA: align business with technology, increase the business agility, improve business wokflow, longer lifespan application
+Loosing coupling
+It is how services are implemented without impacting other services or applications. It interacts through public interface
+Are web services and SOA the same?
+Web service is web technology use to send and receive messages
+SOA is implemented loosing coupling based service application
+What is a reusable service?
+SOA and web service are complied that consume service is reused on the other
+What are the disadvantages of SOA?
+Short lived applications are limited in scope
+Loose coupling is necessary in some cases
+What is the most important skill needed to adopt SOA ?technical or cultural?
+Cultural even though technical is needed
+List down the advantages of Microservices Architecture.
+Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
+* Highly maintainable and testable
+* Loosely coupled
+* Independently deployable
+* Organized around business capabilities
+* Owned by a small team

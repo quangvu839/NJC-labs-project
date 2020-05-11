@@ -1,0 +1,29 @@
+﻿Day 1 Answer
+1) Explain SDLC at a high level:
+Software development life cycle is a process of making software with best quality, low cost and least time if possible
+2) What is waterfall and why it is still relevant
+Waterfall is one of the SDLC in which we have to finish each iteration or phase before we can move on to next steps. Waterfall is still relevant because in some cases where we know clearly about our product requirements and design, and also when project is small and technology is easy to use
+3) Explain Agile Model with a use case and the role of SCRUM in that
+Agile model is a SDLC in which we divide our product into each iterations and increment them based on customer needs and provide a working software product.
+SCRUM is an Agile model where people adapt to complex problem by creatively and productively deliver product with highest quality.
+4) Who is Scrum Master
+Scrum Master is a person who manage and help with SCRUM process. This person is responsible to guiding to the rest of the team about the SCRUM process
+5) Differentiate between Product/Sprint Backlog
+Product backlog is all the things need to be done in the whole project. This would divide project into each steps and deliver to the develop team with time duration of how much time of each task needs.
+Spring backlog is a subset of Product backlog and it will have small items and each items will be finished during each sprint
+6) What is Epic & Story
+Epic is a list of items or tasks that have common requirements.
+Story is a basic unit of work
+7) What is called Velocity in SCRUM
+Velocity is an average of time of the team that need to complete a sprint or iteration
+8) Explain the SCRUM ceremonies
+Ceremonies is a list of events including sprint planning, review, retrospective and daily scrum
+9) What is grooming?
+Grooming is meeting in a team where team discusses about what we have done and prepare for our next sprint step
+10) How Jira board is effective in SCRUM
+Jira board is effective because it is flexible to view, manage, review and report on work in progress.
+11) Differentiate between SCRUM & Waterfall
+Waterfall is very strict to requirement, principle and documentation
+SCRUM is much more flexible and independent to the team
+2) Explain the responsibilities of Product Owner
+Product owner is responsible for maximizing the value of the project by managing the product backlog effectively
